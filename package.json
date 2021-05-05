@@ -35,7 +35,8 @@
 	],
 	"dependencies": {
 		"is-obj": "^1.0.0",
-		"ava": "^1.4.1"
+		"ava": "^1.4.1",
+		"benchmark": "^2.1.4"
 	},
 	"devDependencies": {
 		"ava": "^1.4.1",
